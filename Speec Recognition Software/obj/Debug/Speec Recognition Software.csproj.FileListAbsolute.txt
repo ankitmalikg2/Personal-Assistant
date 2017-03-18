@@ -1,0 +1,9 @@
+c:\users\ankit\documents\visual studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\bin\Debug\Speec Recognition Software.exe.config
+c:\users\ankit\documents\visual studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\bin\Debug\Speec Recognition Software.exe
+c:\users\ankit\documents\visual studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\bin\Debug\Speec Recognition Software.pdb
+c:\users\ankit\documents\visual studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\obj\Debug\Speec_Recognition_Software.Properties.Resources.resources
+c:\users\ankit\documents\visual studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\obj\Debug\Speec Recognition Software.csproj.GenerateResource.Cache
+c:\users\ankit\documents\visual studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\obj\Debug\Speec Recognition Software.exe
+c:\users\ankit\documents\visual studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\obj\Debug\Speec Recognition Software.pdb
+c:\users\ankit\documents\visual studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\obj\Debug\Speec_Recognition_Software.Form2.resources
+C:\Users\ankit\Documents\Visual Studio 2015\Projects\Speec Recognition Software\Speec Recognition Software\obj\Debug\Speec Recognition Software.csprojResolveAssemblyReference.cache
